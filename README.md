@@ -1,1 +1,2 @@
 # Luxury_Resort
+When you just start getting into .net framework, many calculations and small programs will be made where your data types will be mixed, and that might get overwhelming.Working with diffrent datatypes such as integers and double and converting string to these diffrent data types can cause many eerors in your code.
